@@ -1,0 +1,50 @@
+@font-face {
+    src: url("Playfair_Display/static/PlayfairDisplay-Black.ttf");
+    font-family: rawat;
+}
+
+@font-face {
+    src: url("Playfair_Display/static/PlayfairDisplay-Bold.ttf");
+    font-family: rawat1;
+}
+
+@font-face {
+    src: url("Playfair_Display/static/PlayfairDisplay-Regular.ttf");
+    font-family: rawat2;
+}
+
+/* body {
+    font-family: rawat;
+} */
+
+#home-ii{
+    padding-top: 200px;
+}
+
+#home-ii-1{
+    padding-top: 80px;
+}
+
+#home-i{
+    margin-bottom: 300px;
+}
+
+#home-i-sm{
+    margin-bottom: 100px;
+}
+
+a{
+    color: #783B31;
+}
+
+#about-i{
+    margin-top: 180px;
+}
+
+#about-ii{
+    margin-top: -200px;
+}
+
+#about-iii{
+    font-size: 80px;
+}
